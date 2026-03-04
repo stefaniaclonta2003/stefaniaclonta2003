@@ -1,6 +1,6 @@
 # 👩‍💻 About Me
 
-Hello! I'm a **third-year student** at the **Technical University of Cluj-Napoca**, Faculty of **Automation and Computer Science**, specializing in **Computer Science and Information Technology**. 🚀
+Hello! I'm a **fourth-year student** at the **Technical University of Cluj-Napoca**, Faculty of **Automation and Computer Science**, specializing in **Computer Science and Information Technology**. 🚀
 
 I'm passionate about **software development** and **databases**, always eager to improve my skills and explore new technologies. 
 
